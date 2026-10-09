@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/TanujGite0509/leetcode_problems/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TanujGite0509/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanujGite0509/leetcode_problems/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/TanujGite0509/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
