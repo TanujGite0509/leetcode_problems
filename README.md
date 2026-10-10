@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TanujGite0509/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/TanujGite0509/leetcode_problems/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanujGite0509/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -32,5 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanujGite0509/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
