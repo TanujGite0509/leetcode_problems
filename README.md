@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanujGite0509/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/TanujGite0509/leetcode_problems/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanujGite0509/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/TanujGite0509/leetcode_problems/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
