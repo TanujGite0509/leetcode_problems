@@ -1,0 +1,16 @@
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int l=0;
+        int r=static_cast<int>(s.size()-1);
+        while(l<r){
+            swap(s[l],s[r]);
+            l++;
+            r--;
+        }
+        for(auto it:s){
+            cout<<it<<" ";
+        }
+        
+    }
+};
