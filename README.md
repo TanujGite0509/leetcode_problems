@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TanujGite0509/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/TanujGite0509/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanujGite0509/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanujGite0509/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanujGite0509/leetcode_problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/TanujGite0509/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/TanujGite0509/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/TanujGite0509/leetcode_problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
