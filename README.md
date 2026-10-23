@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanujGite0509/leetcode_problems/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/TanujGite0509/leetcode_problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanujGite0509/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/1470-shuffle-the-array) |
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanujGite0509/leetcode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/TanujGite0509/leetcode_problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
