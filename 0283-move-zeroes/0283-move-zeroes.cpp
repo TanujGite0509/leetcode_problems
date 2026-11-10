@@ -1,7 +1,7 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int j= -1;
+        int j=-1;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==0){
                 j=i;
@@ -9,7 +9,7 @@ public:
             }
         }
         if(j==-1){  //sorted
-            return;
+            return ;
         }
         for(int i=j+1;i<nums.size();i++){
             if(nums[i] != 0){
