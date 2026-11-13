@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TanujGite0509/leetcode_problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TanujGite0509/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/TanujGite0509/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/TanujGite0509/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2460-apply-operations-to-an-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanujGite0509/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/TanujGite0509/leetcode_problems/tree/master/0412-fizz-buzz) |
+| [2460-apply-operations-to-an-array](https://github.com/TanujGite0509/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
